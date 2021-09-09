@@ -1,7 +1,7 @@
 // https://developer.spotify.com/documentation/web-playback-sdk/quick-start/#
 export const authEndpoint = "https://accounts.spotify.com/authorize";
 // Replace with your app's client ID, redirect URI and desired scopes
-const clientId = "881e357cf1a6412d86be07e694d74fc0";
+const clientId = "28e2edf6edde4bbcac36bb71b29de344";
 const redirectUri = "https://spotify-clones.web.app/";
 const scopes = [
   "user-read-playback-position",
